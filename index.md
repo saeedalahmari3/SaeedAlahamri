@@ -11,7 +11,7 @@ If you are interested in disucssing research, feel free to reach out via [email]
 
 ### Positions
 <ul>
-  <i> Assistant Professor of Computer Science at Najran University</i>
+  <li> Assistant Professor of Computer Science at Najran University</li>
 </ul>
 
 ```markdown
