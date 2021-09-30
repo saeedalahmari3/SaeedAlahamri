@@ -16,7 +16,8 @@ If you are interested in disucssing research, feel free to reach out via [email]
 </ul>
 
 ### Links:
-<button type="button" onclick="alert('Google Scholar')">[Google Scholar](https://scholar.google.com/citations?user=2tFmf_0AAAAJ&hl=en)</button>
+<button type="button" onclick="alert('Google Scholar')">[Google Scholar](https://scholar.google.com/citations?user=2tFmf_0AAAAJ&hl=en)</button> 
+<button type="button" onclick="alert('CV')">[CV](./CV.pdf)</button> 
 ```markdown
 Syntax highlighted code block
 
