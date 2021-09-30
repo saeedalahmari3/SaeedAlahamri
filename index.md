@@ -1,7 +1,13 @@
-### Markdown
-Saeed S. Alahmari
 
-I'm a computer vision researcher working in application of (deep) machine learning in medical images.  I earned my Ph.D. in Computer Science from 
+### Saeed S. Alahmari
+
+I'm a computer vision researcher working in application of (deep) machine learning in medical images.  I earned my Ph.D. in Computer Science from [University of South Florida](https://www.usf.edu/engineering/cse/) under the directions of [Prof. Dmitry Goldgof] (https://www.usf.edu/engineering/cse/people/goldgof-dmitry.aspx) and [Prof. Lawerence Hall](https://www.usf.edu/engineering/cse/people/hall-lawrence.aspx). 
+
+### Research Interests:
+I'm interested in medical Image analysis, deep learning, machine learning, and computer vision. 
+
+If you are interested in disucssing research, feel free to reach out via [email](aalahmari.saeed@gmail.com), [Twitter](https://twitter.com/AlahmariSaeed_S), [LinkedIn](https://www.linkedin.com/in/alahmaris-saeed/).
+
 
 ### Markdown
 
